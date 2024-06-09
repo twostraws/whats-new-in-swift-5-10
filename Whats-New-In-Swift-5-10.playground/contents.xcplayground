@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+<pages>
+    <page name='Introduction'/>
+        <page name='Data races are now clearly diagnosed'/>
+        <page name='Allow Protocols to be Nested in Non-Generic Contexts'/>
+        <page name='Deprecate @UIApplicationMain and @NSApplicationMain'/>
+        <page name='Refined actor initialization and deinitialization'/>
+    </pages>
+</playground>
